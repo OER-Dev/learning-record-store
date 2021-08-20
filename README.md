@@ -1,2 +1,2 @@
-# learning-record-store
-Prototype service to collect learning record store
+# ResultsAPI
+Simple endpoint to store results from interactive games. 
