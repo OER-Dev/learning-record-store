@@ -1,2 +1,2 @@
 # ResultsAPI
-Simple endpoint to store results from interactive games. 
+Simple endpoint prototype to store results from interactive games. 
